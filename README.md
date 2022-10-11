@@ -1,4 +1,5 @@
-20.15
+Időpont: 
+Probléma: AZ ssh-add -K ~/.ssh/id_rsa paranc egy enter PIN-t dobott ki. Milyen ponre gondolhat, a videoban nem volt róla szó. 
 
 
 1. git clone https://github.com/suraninarus/demo-repo.git
@@ -80,4 +81,5 @@ Total 4 (delta 0), reused 0 (delta 0)
 To https://github.com/suraninarus/demo-repo.git
    afd153a..8898f8b  main -> main
 
-  
+
+7. To copy private key: 
